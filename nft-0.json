@@ -1,0 +1,14 @@
+{
+    "description": "pessoa a se aventurar no mar", 
+    "external_url": "https://en.wikipedia.org/wiki/Sea", 
+    "image": "https://imgur.com/a/jOUTmcw", 
+    "name": "east blue",
+    "attributes": [{
+        "trait_type": "north", 
+        "value": "Não"
+      }, 
+      {
+        "trait_type": "east", 
+        "value": "sim"
+      }]
+  }
