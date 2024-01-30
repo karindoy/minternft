@@ -1,4 +1,4 @@
-const api = [
+const abi = [
 	{
 		"anonymous": false,
 		"inputs": [
